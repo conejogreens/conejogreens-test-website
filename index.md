@@ -1,7 +1,7 @@
 ---
 layout: home
 background: '/bg.jpg'
-title: Conejo Greens
+title: Welcome
 description: Green Party supporters from the Conejo Valley
 ---
 
