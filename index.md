@@ -1,6 +1,6 @@
 ---
 layout: home
-background: 'bg.jpg'
+background: '/bg.jpg'
 title: Conejo Greens
 ---
 
