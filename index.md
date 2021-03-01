@@ -9,6 +9,8 @@ We are building a group to advocate for the [Green Party Platform](http://cagree
 
 If you would like to get involved, send a message to [vjnaanwbva@pbarwbterraf.bet](znvygb:vjnaanwbva@pbarwbterraf.bet).
 
+<script type="text/javascript">document.write("\u003Cn uers=\"znvygb:vjnaanwbva@pbarwbterraf.bet\" ery=\"absbyybj\"\u003Evjnaanwbva@pbarwbterraf.bet\u003C/n\u003E".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));</script>
+
 ### Latest News
 
 News
