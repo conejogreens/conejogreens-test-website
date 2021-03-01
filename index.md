@@ -10,6 +10,3 @@ We are building a group to advocate for the [Green Party Platform](http://cagree
 If you would like to get involved, send a message to <script type="text/javascript">{% include email.js %}</script>.
 
 ### Latest News
-
-- Stuff
-- More
