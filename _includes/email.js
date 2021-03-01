@@ -1,2 +1,1 @@
-document.write("<n uers=\"znvygb:vjnaanwbva@pbarwbterraf.bet\" ery=\"absbyybj\">vjnaanwbva@pbarwbterraf.bet</n>".replace(/[a-zA-Z]/g,
-function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+document.write("\u003Cn uers=\"znvygb:vjnaanwbva@pbarwbterraf.bet\" ery=\"absbyybj\">vjnaanwbva@pbarwbterraf.bet</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
