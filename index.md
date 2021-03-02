@@ -13,4 +13,4 @@ If you would like to get involved, send a message to <span id="email"></span>.
 
 ### Latest News
 
-News
+News2
